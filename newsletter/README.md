@@ -6,7 +6,7 @@ Welcome to the weekly newsletter. This newsletter contains the topic we are cove
 
 ## 📌 Leviticus 11-15 | Ritual Purity
 
-<img style="border-radius: 10px; width: 500px" src="https://drjonesy.github.io/ec-mens-support-group/media/Leviticus_11-15_Ritual-Purity.png" />
+<img style="border-radius: 10px; width: 500px" src="" />
 
 ## <a class="button text-purple bg-purple" target="_blank" href="https://www.biblegateway.com/passage/?search=Leviticus%2011-15&version=NIV">📖 Read: Leviticus 11-15</a>
 
