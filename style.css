@@ -9,9 +9,18 @@ a.button {
     text-decoration: none;
 }
 a.button:hover {
+    transition: .5s;
+    text-decoration: none;
+}
+
+/* green text and background hover */
+
+a.text-green, .text-green {
+    color: rgb(74, 185, 66, 1);
+}
+a.bg-green:hover, .bg-green:hover {
     background-color: rgba(66,185,131,0.1);
     border-color: rgba(66,185,131,0.4);
-    transition: .5s;
 }
 
 /* purple text and background hover */
@@ -23,6 +32,9 @@ a.bg-purple:hover, .bg-purple:hover {
     border-color: rgba(100, 66, 185, 0.4);
 }
 
+
+
+
 /* orange text and background hover */
 a.text-warning, .text-warning {
     color: rgb(185, 139, 66);
@@ -30,4 +42,25 @@ a.text-warning, .text-warning {
 a.bg-warning:hover, .bg-warning:hover {
     background-color: rgba(185, 139, 66, 0.1);
     border-color: rgba(185, 139, 66, 0.4);
+}
+
+
+
+/* .markdown-section css fix */
+
+.markdown-section a.button {
+    border: solid #efefef 1px;
+    border-bottom: 3px solid rgba(0,0,0,0.1);
+}
+
+.markdown-section a.text-green, .text-green {
+    color: rgb(74, 185, 66, 1);
+}
+
+.markdown-section a.text-purple, .text-purple {
+    color: rgba(100, 66, 185, 1);
+}
+
+.markdown-section a.text-warning, .text-warning {
+    color: rgb(185, 139, 66);
 }

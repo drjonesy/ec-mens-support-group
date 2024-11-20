@@ -16,13 +16,13 @@ We are currently meeting at: <br />
 
 Welcome to the weekly newsletter. This newsletter contains the topic we are covering for the coming Wednesday night group. This is our generalized fall back topic. However, if there is something you'd like share with the group, you need group prayer, or something else that edifies Jesus Christ, please bring it up.
 
-<a class="button" href="/newsletter/README.md">📖 Latest Newsletter</a>
+<a class="button text-green bg-green" href="/newsletter/README.md">📖 Latest Newsletter</a>
 
 ### Join the newsletter
 
 If you'd like to stay connected on any changes or updates via email, then sign up for our newsletter. This goes out once a week.
 
-<a class="button" target="_blank" href="http://eepurl.com/iBqZtY">📨 Join the newsletter</a>
+<a class="button text-green bg-green" target="_blank" href="http://eepurl.com/iBqZtY">📨 Join the newsletter</a>
 
 ## Directions
 
@@ -36,4 +36,4 @@ We are currently meeting at: <br />
 
 Is there something on your heart that you prayer for. Please fill out the form for the prayer team.
 
-<a class="button" target="_blank" href="https://docs.google.com/forms/d/e/1FAIpQLSfIZZeUzYBeZpIa1j7IuDEHiWg6BP30GdNBC5651lEEjsvAAA/viewform">🙏 Submit a prayer request</a>
+<a class="button text-green bg-green" target="_blank" href="https://docs.google.com/forms/d/e/1FAIpQLSfIZZeUzYBeZpIa1j7IuDEHiWg6BP30GdNBC5651lEEjsvAAA/viewform">🙏 Submit a prayer request</a>
