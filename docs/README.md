@@ -16,7 +16,7 @@ We are currently meeting at: <br />
 
 Welcome to the weekly newsletter. This newsletter contains the topic we are covering for the coming Wednesday night group. This is our generalized fall back topic. However, if there is something you'd like share with the group, you need group prayer, or something else that edifies Jesus Christ, please bring it up.
 
-<a class="button text-green bg-green" href="/newsletter/README.md">📖 Latest Newsletter</a>
+<a class="button text-green bg-green" href="/#/newsletter/README">📖 Latest Newsletter</a>
 
 ### Join the newsletter
 
