@@ -10,7 +10,7 @@ For the next topic we’ll jump into discussions on common and difficult questio
 
 To supplement these questions and keep us moving forward, we’ll be using the book “Give Me An Answer by Cliffe Knechtle“. This book will simply be a guide, but we must be willing to challenge our knowledge and willing seek understanding. This chapter will only be available up to the day of the study and then it will be removed.
 
-<a class="button bg-purple " href="/#/newsletter/Chapter1-GiveMeAnAnswer.md">📘 Read Chapter 1</a>
+## <a class="button bg-purple " href="/#/newsletter/Chapter1-GiveMeAnAnswer.md">📘 Read Chapter 1</a>
 
 If you’d like to get a copy yourself, it's available on Amazon.com
 
